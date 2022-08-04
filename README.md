@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![h](https://cdn.discordapp.com/emojis/740291184223584437.gif)
+
 <!--
 **IHasBrains-The-Chosen-One/IHasBrains-The-Chosen-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
